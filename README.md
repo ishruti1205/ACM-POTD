@@ -11,10 +11,10 @@ Each day’s solution is uploaded as a Markdown file following the format: `Full
 Example: `Shruti_22-3-26_Day-1.md`
 
 Each file contains:
-* Problem description
+* Problem Statement
 * Approach
 * Code
-* Screenshot of accepted submission
+* Screenshot of Accepted Submission
 
 All solutions are uploaded in the form of **Markdown (.md) files** as required by the event guidelines.
 
@@ -28,8 +28,8 @@ Day 5: -
 *(This list will be updated daily.)*
 
 ## 🔗 Useful Links
-* My Leetcode Profile: "https://leetcode.com/u/ishruti1205/"
+* My Leetcode Profile: https://leetcode.com/u/ishruti1205/
 * ACM IGDTUW POTD Website: https://acmigdtuw-potd.vercel.app/
 * Official ACM IGDTUW Website: https://acmigdtuw.github.io/acmigdtuw/
 
-⭐ Consistency over intensity — solving one problem every day!
+### ⭐ Consistency over intensity — solving one problem every day!
