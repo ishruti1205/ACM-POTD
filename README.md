@@ -22,8 +22,13 @@ All solutions are uploaded in the form of **Markdown (.md) files** as required b
 Day 1: Remove Duplicates from Sorted Array  
 Day 2: Two Sum  
 Day 3: Best Time to Buy and Sell Stock  
-Day 4: -  
+Day 4: Missing Number  
 Day 5: -  
+Day 6: -  
+Day 7: -  
+Day 8: -  
+Day 9: -  
+Day 10: -  
 
 *(This list will be updated daily.)*
 
