@@ -21,7 +21,7 @@ All solutions are uploaded in the form of **Markdown (.md) files** as required b
 ## 📌 Daily Progress
 Day 1: Remove Duplicates from Sorted Array  
 Day 2: Two Sum  
-Day 3: -  
+Day 3: Best Time to Buy and Sell Stock  
 Day 4: -  
 Day 5: -  
 
