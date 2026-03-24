@@ -6,9 +6,9 @@ The challenge requires participants to solve **one coding problem every day** an
 
 ## 📂 Repository Structure
 
-Each day’s solution is uploaded as a Markdown file following the format: `Fullname_Date_POTD-day.md`
+Each day’s solution is uploaded as a Markdown file following the format: `Fullname_Date_POTD-Day.md`
 
-Example: `Shruti_22-3-26_Day-1.md`
+Example: `Shruti_22-03-2026_Day-01.md`
 
 Each file contains:
 * Problem Statement
