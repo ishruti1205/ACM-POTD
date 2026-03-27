@@ -24,7 +24,7 @@ Day 2: Two Sum
 Day 3: Best Time to Buy and Sell Stock  
 Day 4: Missing Number  
 Day 5: Move Zeroes   
-Day 6: -  
+Day 6: Check If N and Its Double Exist  
 Day 7: -  
 Day 8: -  
 Day 9: -  
