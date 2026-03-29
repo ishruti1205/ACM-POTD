@@ -26,7 +26,7 @@ Day 4: Missing Number
 Day 5: Move Zeroes   
 Day 6: Check If N and Its Double Exist  
 Day 7: Rotate Array  
-Day 8: -  
+Day 8: Reverse Linked List  
 Day 9: -  
 Day 10: -  
 
@@ -34,7 +34,7 @@ Day 10: -
 
 ## 🔗 Useful Links
 * My Leetcode Profile: https://leetcode.com/u/ishruti1205/
-* ACM IGDTUW POTD Website: https://acmigdtuw-potd.vercel.app/
+* ACM IGDTUW POTD Website: https://acm-test-kohl.vercel.app/event/spring-2026
 * Official ACM IGDTUW Website: https://acmigdtuw.github.io/acmigdtuw/
 
 ### ⭐ Consistency over intensity — solving one problem every day!
