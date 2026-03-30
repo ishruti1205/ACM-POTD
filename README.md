@@ -27,8 +27,13 @@ Day 5: Move Zeroes
 Day 6: Check If N and Its Double Exist  
 Day 7: Rotate Array  
 Day 8: Reverse Linked List  
-Day 9: -  
+Day 9: Linked List Cycle  
 Day 10: -  
+Day 11: -  
+Day 12: -  
+Day 13: -  
+Day 14: -  
+Day 15: -  
 
 *(This list will be updated daily.)*
 
