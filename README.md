@@ -30,7 +30,7 @@ Day 8: Reverse Linked List
 Day 9: Linked List Cycle  
 Day 10: Middle of the Linked List  
 Day 11: Merge Two Sorted Lists  
-Day 12: -  
+Day 12: Remove Duplicates from Sorted Lists  
 Day 13: -  
 Day 14: -  
 Day 15: -  
