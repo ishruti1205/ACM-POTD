@@ -31,9 +31,14 @@ Day 9: Linked List Cycle
 Day 10: Middle of the Linked List  
 Day 11: Merge Two Sorted Lists  
 Day 12: Remove Duplicates from Sorted Lists  
-Day 13: -  
+Day 13: Intersection of Two Linked Lists  
 Day 14: -  
 Day 15: -  
+Day 16: -  
+Day 17: -  
+Day 18: -  
+Day 19: -  
+Day 20: -  
 
 *(This list will be updated daily.)*
 
