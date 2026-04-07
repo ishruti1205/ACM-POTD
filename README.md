@@ -35,7 +35,7 @@ Day 13: Intersection of Two Linked Lists
 Day 14: Palindrome Linked Lists  
 Day 15: Valid Parentheses  
 Day 16: Implement Queue using Stacks  
-Day 17: -  
+Day 17: Implement Stack using Queues  
 Day 18: -  
 Day 19: -  
 Day 20: -  
