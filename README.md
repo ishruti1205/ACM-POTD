@@ -36,9 +36,19 @@ Day 14: Palindrome Linked Lists
 Day 15: Valid Parentheses  
 Day 16: Implement Queue using Stacks  
 Day 17: Implement Stack using Queues  
-Day 18: -  
+Day 18: Remove All Duplicates In String  
 Day 19: -  
 Day 20: -  
+Day 21: -  
+Day 22: -  
+Day 23: -  
+Day 24: -  
+Day 25: -  
+Day 26: -  
+Day 27: -  
+Day 28: -  
+Day 29: -  
+Day 30: -  
 
 *(This list will be updated daily.)*
 
