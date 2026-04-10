@@ -38,7 +38,7 @@ Day 16: Implement Queue using Stacks
 Day 17: Implement Stack using Queues  
 Day 18: Remove All Duplicates In String  
 Day 19: Backspace String Compare  
-Day 20: -  
+Day 20: Remove Outermost Parenthesis  
 Day 21: -  
 Day 22: -  
 Day 23: -  
