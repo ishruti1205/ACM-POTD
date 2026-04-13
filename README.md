@@ -41,7 +41,7 @@ Day 19: Backspace String Compare
 Day 20: Remove Outermost Parenthesis  
 Day 21: Make The String Great  
 Day 22: Flood Fill  
-Day 23: -  
+Day 23: Find the Town Judge  
 Day 24: -  
 Day 25: -  
 Day 26: -  
