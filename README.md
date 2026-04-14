@@ -42,7 +42,7 @@ Day 20: Remove Outermost Parenthesis
 Day 21: Make The String Great  
 Day 22: Flood Fill  
 Day 23: Find the Town Judge  
-Day 24: -  
+Day 24: Find the Center of Star Graph  
 Day 25: -  
 Day 26: -  
 Day 27: -  
