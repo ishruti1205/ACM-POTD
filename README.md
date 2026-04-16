@@ -44,7 +44,7 @@ Day 22: Flood Fill
 Day 23: Find the Town Judge  
 Day 24: Find the Center of Star Graph  
 Day 25: Maximum Depth of Binary Tree  
-Day 26: -  
+Day 26: Invert Binary Tree  
 Day 27: -  
 Day 28: -  
 Day 29: -  
