@@ -48,7 +48,11 @@ Day 26: Invert Binary Tree
 Day 27: Diameter of Binary Tree  
 Day 28: Subtree of Another Tree  
 Day 29: Fibonacci Number  
-Day 30: -  
+Day 30: Power of Two  
+Day 31:  
+Day 32:   
+Day 33:  
+Day 34: 
 
 *(This list will be updated daily.)*
 
