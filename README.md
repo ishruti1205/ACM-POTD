@@ -49,7 +49,7 @@ Day 27: Diameter of Binary Tree
 Day 28: Subtree of Another Tree  
 Day 29: Fibonacci Number  
 Day 30: Power of Two  
-Day 31:  
+Day 31: Climbing Stairs  
 Day 32:   
 Day 33:  
 Day 34: 
