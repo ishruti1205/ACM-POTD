@@ -51,7 +51,7 @@ Day 29: Fibonacci Number
 Day 30: Power of Two  
 Day 31: Climbing Stairs  
 Day 32: Pascal's Triangle  
-Day 33:  
+Day 33: Min Cost Climbing Stairs  
 Day 34: 
 
 *(This list will be updated daily.)*
